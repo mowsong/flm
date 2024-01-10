@@ -1,5 +1,4 @@
 # flm_for_openocd
-Collections of CMSIS flash loaders for OpenOCD
 
 This repository currently contains the compiled binary of the CMSIS flash loaders (FLM) from several MCU vendors.
 
